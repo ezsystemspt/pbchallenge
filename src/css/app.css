@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+label {
+  margin-top: 10px;
+  display: block;
+}
+
+table {
+  width: 100%;
+}
+
+table thead tr {
+  background-color: antiquewhite;
+  color: #292929;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.1);
+}
